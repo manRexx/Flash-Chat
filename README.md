@@ -1,6 +1,6 @@
-# flash_chat
+# Flash Chat
 
-A new Flutter application.
+A new Flutter application for personal messaging with authorization with email.
 
 ## Getting Started
 
